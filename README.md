@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error that can occur in Python functions. The function `function_with_uncommon_error` handles the cases where either `a` or `b` is zero, but not the case where both are zero. This leads to a `ZeroDivisionError` which is unexpected by users of the function.
